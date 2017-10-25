@@ -28,7 +28,7 @@ define('_P_OVERVIEW', 'Aperçu des performances');
 define('_AVG_QUERY', 'Temps moyens des requêtes');
 define('_AVG_RESULTS', 'Résultats en moyenne');
 define('_ACC_NUMBER', 'Numéro de compte');
-define('_API_LOAD', 'charge de l api');
+define('_API_LOAD', 'chargement de l api');
 define('_SHORT_TERM', 'But a court termes');
 define('_LONG_TERM', 'But a long termes');
 define('_MOST_ACTIVE', 'Nous nous efforçons constamment d améliorer les performances, pour cela nous rendons nos statistiques publiques. Elle sont réinitialisées au début de chaque mois et à chaque mise a jour de l api.');
